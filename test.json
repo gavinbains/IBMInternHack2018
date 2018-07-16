@@ -1,0 +1,81 @@
+{
+  "language": "en",
+  "retrieved_url": "https://www.bbc.com/news/world-europe-44780489",
+  "usage": {
+    "features": 1,
+    "text_characters": 6088,
+    "text_units": 1
+  },
+  "keywords": [
+    {
+      "relevance": 0.938028,
+      "text": "Mr Trump",
+      "emotion": {
+        "anger": 0.162358,
+        "disgust": 0.099954,
+        "fear": 0.099597,
+        "joy": 0.559481,
+        "sadness": 0.215014
+      },
+      "sentiment": {
+        "score": -0.434919
+      }
+    },
+    {
+      "relevance": 0.693139,
+      "text": "Nato",
+      "emotion": {
+        "anger": 0.184021,
+        "disgust": 0.126345,
+        "fear": 0.63327,
+        "joy": 0.540266,
+        "sadness": 0.483299
+      },
+      "sentiment": {
+        "score": -0.499816
+      }
+    },
+    {
+      "relevance": 0.673706,
+      "text": "Nato summit",
+      "emotion": {
+        "anger": 0.180742,
+        "disgust": 0.080516,
+        "fear": 0.085624,
+        "joy": 0.358208,
+        "sadness": 0.314579
+      },
+      "sentiment": {
+        "score": -0.64706
+      }
+    },
+    {
+      "relevance": 0.658219,
+      "text": "President Trump",
+      "emotion": {
+        "anger": 0.224729,
+        "disgust": 0.148587,
+        "fear": 0.286108,
+        "joy": 0.203356,
+        "sadness": 0.332059
+      },
+      "sentiment": {
+        "score": -0.60412
+      }
+    },
+    {
+      "relevance": 0.643668,
+      "text": "President Donald Trump",
+      "emotion": {
+        "anger": 0.147067,
+        "disgust": 0.092465,
+        "fear": 0.270357,
+        "joy": 0.177344,
+        "sadness": 0.285869
+      },
+      "sentiment": {
+        "score": 0.0
+      }
+    }
+  ]
+}
